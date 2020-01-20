@@ -1,0 +1,8 @@
+prefix=/home/workspace/catkin_ws/install
+
+Name: where_am_i
+Description: Description of where_am_i
+Version: 0.0.0
+Cflags: -I/home/workspace/catkin_ws/install/include
+Libs: -L/home/workspace/catkin_ws/install/lib 
+Requires: 
